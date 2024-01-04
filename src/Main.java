@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.printf("welcome!");
+        System.out.print("welcome! To the X airLine ");
 
 
         }
